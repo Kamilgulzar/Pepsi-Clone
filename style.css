@@ -154,18 +154,14 @@ body {
     background-color: black;
     margin-top: -5px;
 }
-.txt10 {
-    text-align: center;
-    color: #0025ff;
-    font-size: 60px;
-}
+
 
 .txtmain4{
     background-color: black;
     padding: 20px 72px;
     margin-top: -4px;
 }
-.txt6{
+.txt10{
     color: #0025ff;
     font-size: 50px;
     text-align: center;
@@ -180,4 +176,8 @@ body {
 }
 .SocialLinkPic{
     height: 200px;
+}
+
+.ft {
+    max-width: 100%;
 }
