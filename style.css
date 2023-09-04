@@ -159,3 +159,25 @@ body {
     color: #0025ff;
     font-size: 60px;
 }
+
+.txtmain4{
+    background-color: black;
+    padding: 20px 72px;
+    margin-top: -4px;
+}
+.txt6{
+    color: #0025ff;
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.SocialLinks{
+    display: flex;
+    justify-content: center;
+    border: 2px solid #0025ff;
+
+}
+.SocialLinkPic{
+    height: 200px;
+}
