@@ -1,0 +1,161 @@
+.logo {
+    height: 60px;
+}
+
+.head {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.para {
+    color: white;
+}
+
+header {
+    background-color: #0025ff;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+.buybutton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.btn {
+    color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+    height: 30px;
+    width: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: #0025ff;
+}
+.txtmain {
+    background-color: black;
+    height: 350px;
+    margin-top: -5px;
+}
+.txt1 {
+    text-align: center;
+    font-size: 80px;
+    color: white;
+}
+
+.txt2 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin-top: -20px;
+}
+
+.falong {
+    display: flex;
+    justify-content: center;
+}
+
+.fabtn{
+    display: flex;
+    background-color: #0025ff;
+    height: 80px;
+    color: white;
+    border: 2px solid #0025ff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+.yearimg {
+    max-width: 100%;
+}
+
+.txtmain2 {
+    background-color: black;
+    height: 200px;
+    margin-top: -5px;
+}
+
+.txt3 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.txt4 {
+    text-align: center;
+    color: #0025ff;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    margin-top: -20px;
+}
+
+.txt5 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    margin-top: -20px;
+}   
+
+.DINNER {
+    max-width: 100%;
+}
+
+.txtmain3 {
+    background-color: black;
+    margin-top: -5px;
+    height: 120px;
+}
+
+.txt6 {
+    text-align: center;
+    font-size: smaller;
+    color: white;
+    font-weight: lighter;
+}
+
+.txt7 {
+    text-align: center;
+    font-size:smaller;
+    color: white;
+    font-weight: lighter;
+}
+
+.txt8 {
+    text-align: center;
+    font-size: smaller;
+    color: white;
+    font-weight: lighter;
+}
+
+.txt9 {
+    text-align: center;
+    font-size: smaller;
+    margin-top: 20px  ;
+    color: white;
+    font-weight: lighter;
+}
+.txtmain4 {
+    background-color: black;
+    margin-top: -5px;
+}
+.txt10 {
+    text-align: center;
+    color: #0025ff;
+    font-size: 60px;
+}
